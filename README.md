@@ -1,13 +1,22 @@
+<!-- Banner Image -->
+![Banner](https://raw.githubusercontent.com/webafsanakeya/webafsanakeya/c357d9458270acf04f7f85821947b2459e54f7e6/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true)
+
 # Hi there, I'm Afsana Noor Keya 👋
+### MERN Stack Developer | Full Stack Web Developer
+
+---
 
 ## 🚀 About Me
 I’m a passionate **MERN Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
 I have hands-on experience with **HTML, CSS, JavaScript, TailwindCSS, Firebase, MongoDB, PostgreSQL, TypeScript, Express, Node.js, Next.js, DaisyUI, Prisma, and Docker**.
 
-- 🔭 I’m currently working on: Advanced **Next.js** projects & scaling backend APIs
-- 🌱 I’m currently learning: DevOps with Docker & Cloud Deployments
-- 💬 Ask me about: MERN stack, REST APIs, TailwindCSS, Database Design
-- ⚡ Fun fact: My code runs faster than my morning coffee kicks in ☕
+---
+
+## 🌱 Current Activities
+- 🔭 I am exploring advanced **Next.js** projects and scaling backend APIs  
+- 💻 I’m working on a **tourism website** project  
+- 📚 I’m learning **DevOps with Docker** and cloud deployments  
+- 💬 Ask me about MERN stack, REST APIs, TailwindCSS, and Database Design  
 
 ---
 
@@ -38,15 +47,15 @@ I have hands-on experience with **HTML, CSS, JavaScript, TailwindCSS, Firebase, 
 ## 📂 Featured Projects
 
 ### 🔍 [FindLost App](https://findlost-app.netlify.app/)
-A platform to help people find and report lost items with ease.  
+A platform to help people find and report lost items easily.  
 **Tech Stack:** React, TailwindCSS, Firebase
 
 ### 🏥 [MediCamp Management App](https://medicamp-app.web.app/)
-An application to manage medical camp schedules, doctors, and patients efficiently.  
+Manage medical camp schedules, doctors, and patients efficiently.  
 **Tech Stack:** React, Firebase, TailwindCSS
 
 ### 🏠 [Roommate Finder App](https://incredible-blini-9429b5.netlify.app/)
-A web app to connect people looking for roommates with matching preferences.  
+Connect people looking for roommates with matching preferences.  
 **Tech Stack:** React, MongoDB, Express, TailwindCSS
 
 ---
@@ -61,3 +70,4 @@ A web app to connect people looking for roommates with matching preferences.
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/web-afsana-noor-keya-/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:webafsanakeya@gmail.com)
+
