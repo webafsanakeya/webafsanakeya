@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://raw.githubusercontent.com/webafsanakeya/webafsanakeya/c357d9458270acf04f7f85821947b2459e54f7e6/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true)
 
 # Hi there, I'm Afsana Noor Keya 👋
 ### MERN Stack Developer | Full Stack Web Developer
