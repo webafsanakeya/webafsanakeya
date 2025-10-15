@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://raw.githubusercontent.com/webafsanakeya/webafsanakeya/c357d9458270acf04f7f85821947b2459e54f7e6/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png?raw=true)
+![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
 
 # Hi there, I'm Afsana Noor Keya 👋
 ### MERN Stack Developer | Full Stack Web Developer
@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 I’m a passionate **MERN Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
-I have hands-on experience with **HTML, CSS, JavaScript, TailwindCSS, Firebase, MongoDB, PostgreSQL, TypeScript, Express, Node.js, Next.js, DaisyUI, Prisma, and Docker**.
+I have hands-on experience with **HTML, CSS, JavaScript, TailwindCSS, Next.js, Firebase, MongoDB, PostgreSQL, TypeScript, Express, Node.js, DaisyUI, Prisma, and Docker**.
 
 ---
 
 ## 🌱 Current Activities
 - 🔭 I am exploring advanced **Next.js** projects and scaling backend APIs  
-- 💻 I’m working on a **tourism website** project  
+- 💻 I’m working on a **Perfume App Store project**  
 - 📚 I’m learning **DevOps with Docker** and cloud deployments  
 - 💬 Ask me about MERN stack, REST APIs, TailwindCSS, and Database Design  
 
@@ -27,6 +27,7 @@ I have hands-on experience with **HTML, CSS, JavaScript, TailwindCSS, Firebase, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=fff)
 
 **Backend & Databases:**  
@@ -46,17 +47,17 @@ I have hands-on experience with **HTML, CSS, JavaScript, TailwindCSS, Firebase, 
 
 ## 📂 Featured Projects
 
-### 🔍 [FindLost App](https://findlost-app.netlify.app/)
-A platform to help people find and report lost items easily.  
-**Tech Stack:** React, TailwindCSS, Firebase
+### 🛍 [Perfume App Store](https://perfume-omega-seven.vercel.app/)
+An online perfume store for browsing and shopping perfumes easily.  
+**Tech Stack:** Next.js, TailwindCSS, Firebase
 
-### 🏥 [MediCamp Management App](https://medicamp-app.web.app/)
-Manage medical camp schedules, doctors, and patients efficiently.  
+### 💬 [Real-Time Chat App](https://chat-app-frontend-delta-seven.vercel.app/)
+A web app for real-time messaging with multiple users.  
 **Tech Stack:** React, Firebase, TailwindCSS
 
-### 🏠 [Roommate Finder App](https://incredible-blini-9429b5.netlify.app/)
-Connect people looking for roommates with matching preferences.  
-**Tech Stack:** React, MongoDB, Express, TailwindCSS
+### 🔍 [FindLost Website](https://findlost-app.netlify.app/)
+A platform to help people find and report lost items efficiently.  
+**Tech Stack:** React, TailwindCSS, Firebase
 
 ---
 
