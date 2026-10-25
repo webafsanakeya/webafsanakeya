@@ -8,7 +8,7 @@
 Dhaka, Bangladesh · Open to remote roles worldwide</p>
 
 <p align="center">
-  <a href="https://latest-portfolio-lemon.vercel.app">Portfolio</a> ·
+  <a href="https://keya-portfolio-chi.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/web-afsana-noor-keya-">LinkedIn</a> ·
   <a href="mailto:webafsanakeya@gmail.com">Email</a>
 </p>
@@ -23,7 +23,7 @@ Alongside development, I work in talent development at a MERN-stack bootcamp, wh
 
 ## Featured projects
 
-### [Crafting Renovation](https://github.com/webafsanakeya/renovation-site) · [Live demo](https://renovation-swart.vercel.app)
+### [Crafting Renovation](https://github.com/webafsanakeya/renovation) · [Live demo](https://renovation-swart.vercel.app/)
 Home renovation and carpentry website with an admin CMS for managing projects and blog posts.
 - **Stack:** Next.js 16, TypeScript, MongoDB Atlas, Tailwind CSS, shadcn/ui
 - **Highlights:** secure admin login, form validation, SEO with JSON-LD, admin stats dashboard
@@ -33,7 +33,7 @@ Home renovation and carpentry website with an admin CMS for managing projects an
 Real-time messaging between multiple users. [Backend repo](https://github.com/webafsanakeya/chat-app-backend)
 - **Stack:** React, Node.js, Socket.IO, JWT auth
 
-### [Perfume E-Commerce Platform](https://github.com/webafsanakeya/perfume) · [Live demo](https://perfume-omega-seven.vercel.app)
+### [Perfume E-Commerce Platform](https://github.com/webafsanakeya/perfume) · [Live demo](https://perfume-omega-seven.vercel.app/)
 Online perfume store with cart and an admin dashboard.
 - **Stack:** Next.js, Tailwind CSS, Firebase
 
