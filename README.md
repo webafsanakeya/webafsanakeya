@@ -59,6 +59,9 @@ Online perfume store with cart and an admin dashboard.
 ## Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=webafsanakeya&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+![Profile views](https://komarev.com/ghpvc/?username=webafsanakeya&style=flat-square&color=blueviolet)
+![Stats](https://github-readme-stats.vercel.app/api?username=webafsanakeya&show_icons=true&theme=radical&hide_border=true)
+
 ## Let's connect
 I'm looking for remote junior to mid-level full-stack / frontend roles (React, Next.js, TypeScript). The best way to reach me is by [email](mailto:webafsanakeya@gmail.com) or [LinkedIn](https://www.linkedin.com/in/web-afsana-noor-keya-).
 
