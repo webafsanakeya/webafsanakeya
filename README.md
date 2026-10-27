@@ -56,6 +56,9 @@ Online perfume store with cart and an admin dashboard.
 - Mentored and supported 200+ bootcamp students through resume reviews, mock interviews, and project-presentation practice
 - Part of the team behind 82 student job placements
 
+## Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=webafsanakeya&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## Let's connect
 I'm looking for remote junior to mid-level full-stack / frontend roles (React, Next.js, TypeScript). The best way to reach me is by [email](mailto:webafsanakeya@gmail.com) or [LinkedIn](https://www.linkedin.com/in/web-afsana-noor-keya-).
 
